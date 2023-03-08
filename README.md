@@ -5,10 +5,8 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Front-end Developer
--------------------
 
-I am a web developer and Shopify expert. Strong creative and analytical skills. Team player with an eye for detail.
+I am a Front-end Dev and Shopify expert. Strong creative and analytical skills. Team player with an eye for detail.
 
 * 🌍  I'm based in Nicaragua
 * 🖥️  See my portfolio at [mjirondev](http://mjiron-portfolio.vercel.app/)
