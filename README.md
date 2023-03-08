@@ -15,8 +15,8 @@ I am a qualified and professional web developer and Shopify expert with five yea
 * ✉️  You can contact me at [mjirondev@gmail.com](mailto:mjirondev@gmail.com)
 * 🚀  I'm currently working on [BlueTide](http://bluetide.dev)
 * 🧠  I'm learning English, Software Testing, React, Python, NextJs, Shopify Academy
-* ⚡  In my free time I play saxophone, watch series and to take walks
-* <img src="https://komarev.com/ghpvc/?username=may09jjo&style=flat-square&color=blue" alt="Michael Jiron"/>
+- ⚡  In my free time I play saxophone, watch series and to take walks
+- <img src="https://komarev.com/ghpvc/?username=may09jjo&style=flat-square&color=blue" alt="Michael Jiron"/>
 ### Skills
 
 
